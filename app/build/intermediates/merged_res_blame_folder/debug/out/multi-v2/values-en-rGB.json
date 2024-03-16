@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-26:/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-28:/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\16088aea6844a21f0ae8707202a192eb\\transformed\\core-1.9.0\\res\\values-en-rGB\\values-en-rGB.xml",

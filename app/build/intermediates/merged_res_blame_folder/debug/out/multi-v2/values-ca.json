@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-26:/values-ca/values-ca.xml",
+            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-28:/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\b1741c2033ae6eec819ff5ea06ca1704\\transformed\\appcompat-1.6.1\\res\\values-ca\\values-ca.xml",
@@ -37,6 +37,23 @@
                         "endLines": "5,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94",
                         "endColumns": "12,80,79,87,102,91,100,127,83,64,96,79,64,94,63,71,61,75,62,56,120,57,60,56,79,136,86,83,138,77,78,88,56,55,65,77,80,87,77,76,73,78,89,91,91,100,73,81,100,49,65,91,86,61,63,62,122,102,103,105,60,59,85",
                         "endOffsets": "319,3125,3205,3293,3396,3488,3589,3717,3801,3866,3963,4043,4108,4203,4267,4339,4401,4477,4540,4597,4718,4776,4837,4894,4974,5111,5198,5282,5421,5499,5578,5667,5724,5780,5846,5924,6005,6093,6171,6248,6322,6401,6491,6583,6675,6776,6850,6932,7033,7083,7149,7241,7328,7390,7454,7517,7640,7743,7847,7953,8014,8074,8160"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\942dfb23c460382c97f84bb3d7e44906\\transformed\\zxing-android-embedded-4.1.0\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,167,323",
+                        "endColumns": "58,52,155,112",
+                        "endOffsets": "109,162,318,431"
+                    },
+                    "to": {
+                        "startLines": "97,98,99,100",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "8348,8407,8460,8616",
+                        "endColumns": "58,52,155,112",
+                        "endOffsets": "8402,8455,8611,8724"
                     }
                 },
                 {

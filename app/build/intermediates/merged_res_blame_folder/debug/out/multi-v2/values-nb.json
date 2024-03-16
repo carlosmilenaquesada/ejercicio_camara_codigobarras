@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-26:/values-nb/values-nb.xml",
+            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-28:/values-nb/values-nb.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\4c4241c4c32971a6073ec7b2fcbdc410\\transformed\\material-1.9.0\\res\\values-nb\\values-nb.xml",

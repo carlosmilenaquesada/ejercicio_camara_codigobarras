@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-26:/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-28:/values-zh-rHK/values-zh-rHK.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\942dfb23c460382c97f84bb3d7e44906\\transformed\\zxing-android-embedded-4.1.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,104,151,244",
+                        "endColumns": "48,46,92,69",
+                        "endOffsets": "99,146,239,309"
+                    },
+                    "to": {
+                        "startLines": "97,98,99,100",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "7312,7361,7408,7501",
+                        "endColumns": "48,46,92,69",
+                        "endOffsets": "7356,7403,7496,7566"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\16088aea6844a21f0ae8707202a192eb\\transformed\\core-1.9.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {

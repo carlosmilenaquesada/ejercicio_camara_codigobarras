@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-26:/values-eu/values-eu.xml",
+            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-28:/values-eu/values-eu.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\942dfb23c460382c97f84bb3d7e44906\\transformed\\zxing-android-embedded-4.1.0\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,119,168,316",
+                        "endColumns": "63,48,147,111",
+                        "endOffsets": "114,163,311,423"
+                    },
+                    "to": {
+                        "startLines": "97,98,99,100",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "8264,8328,8377,8525",
+                        "endColumns": "63,48,147,111",
+                        "endOffsets": "8323,8372,8520,8632"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\4c4241c4c32971a6073ec7b2fcbdc410\\transformed\\material-1.9.0\\res\\values-eu\\values-eu.xml",
                     "from": {

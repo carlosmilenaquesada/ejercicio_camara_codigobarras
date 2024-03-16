@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-26:/values-sl/values-sl.xml",
+            "outputFile": "com.example.ejercicio_camara_codigobarras.app-mergeDebugResources-28:/values-sl/values-sl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\4c4241c4c32971a6073ec7b2fcbdc410\\transformed\\material-1.9.0\\res\\values-sl\\values-sl.xml",
@@ -54,6 +54,23 @@
                         "startOffsets": "8209",
                         "endColumns": "100",
                         "endOffsets": "8305"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\942dfb23c460382c97f84bb3d7e44906\\transformed\\zxing-android-embedded-4.1.0\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,165,318",
+                        "endColumns": "58,50,152,99",
+                        "endOffsets": "109,160,313,413"
+                    },
+                    "to": {
+                        "startLines": "99,100,101,102",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "8310,8369,8420,8573",
+                        "endColumns": "58,50,152,99",
+                        "endOffsets": "8364,8415,8568,8668"
                     }
                 }
             ]

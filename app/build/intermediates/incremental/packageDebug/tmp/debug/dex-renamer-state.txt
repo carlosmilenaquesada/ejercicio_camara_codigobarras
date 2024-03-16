@@ -1,4 +1,4 @@
-#Sat Mar 16 14:36:04 CET 2024
+#Sat Mar 16 17:09:45 CET 2024
 base.0=C\:\\Users\\Administrador\\Desktop\\ejercicio_camara_codigobarras\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\Administrador\\Desktop\\ejercicio_camara_codigobarras\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\Administrador\\Desktop\\ejercicio_camara_codigobarras\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex

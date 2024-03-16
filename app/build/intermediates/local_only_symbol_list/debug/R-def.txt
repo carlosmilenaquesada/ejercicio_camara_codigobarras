@@ -4,6 +4,8 @@ color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id btnScan
+id txtResultado
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
