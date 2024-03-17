@@ -1,0 +1,31 @@
+//LADO DEL PUNTO DE VENTA
+-arqueos.
+-historio ventas dia.
+-tickets del día
+
+
+
+//LADO DEL SERVIDOR
+Para un sistema de gestión de un supermercado, podrías considerar las siguientes tablas relacionales:
+
+Productos: Esta tabla contendría información sobre los productos que se venden en el supermercado, como el nombre del producto, el precio, la cantidad en stock, la categoría, el proveedor, etc. Esta tabla sería esencial ya que los productos son el núcleo de la operación de un supermercado.
+	
+
+Clientes: Aquí se almacenarían los datos de los clientes que compran en el supermercado, como su nombre, dirección, número de teléfono, correo electrónico, etc. Mantener un registro de los clientes es importante para el seguimiento de ventas, programas de fidelización, y marketing dirigido.
+
+Ventas: Esta tabla registraría cada transacción de venta, incluyendo detalles como la fecha y hora de la venta, el cliente involucrado (si es una venta registrada con un cliente específico), el empleado que realizó la venta (si aplica), el método de pago, etc. Esto es crucial para el seguimiento de las ventas y el análisis de datos.
+	Detalles_Venta: Esta tabla contendría información detallada sobre cada línea de venta en una transacción de venta, incluyendo el producto 	vendido, la cantidad, el precio unitario en el momento de la venta (para mantener un registro histórico), el subtotal, y una referencia a 	la venta a la que pertenece. Además, podrías considerar incluir información adicional sobre el producto en la línea de venta, como el 	nombre del producto, la categoría, etc., aunque esta información también podría obtenerse a través de la relación con la tabla de 	Productos.
+
+Empleados: Aquí se almacenarían los datos de los empleados que trabajan en el supermercado, como su nombre, posición, salario, fecha de contratación, etc. Esto facilita la gestión de recursos humanos, la asignación de tareas y el seguimiento del rendimiento del personal.
+
+Proveedores: Esta tabla contendría información sobre los proveedores de los productos que el supermercado vende, como el nombre del proveedor, información de contacto, productos suministrados, etc. Mantener un registro de los proveedores es crucial para gestionar adecuadamente el suministro de productos y mantener relaciones comerciales.
+
+Estas son solo algunas sugerencias básicas para las tablas de una base de datos para un sistema de gestión de supermercados. Dependiendo de las necesidades específicas del supermercado, podría ser necesario agregar más tablas o expandir estas con más atributos.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Tpvs: id_tpv, tiquets emitidos, 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+obtenerIngresos(rango de fechas);
+obtenerGastos(rango de fechas);
+obtenerBeneficios(Rango de fechas);
+
+

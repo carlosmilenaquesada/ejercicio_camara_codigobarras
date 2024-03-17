@@ -1,0 +1,6 @@
+--lector de código de barras: ZXING Android Embedded
+	implementation("com.journeyapps:zxing-android-embedded:4.1.0")
+visto en: https://www.youtube.com/watch?v=elZP3JFFdVk
+
+--conectar teléfono a la base de datos del servidor, usando mysql
+visto en: https://www.youtube.com/watch?v=mbHvLSwhdLA
